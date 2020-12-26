@@ -1,0 +1,475 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "https://cdn.images.dailystar.co.uk/dynamic/58/photos/961000/620x/Lionel-Messi-680223.jpg",
+      "Name" : "Football"
+    },
+    "02" : {
+      "Image" : "http://cdn2.bigcommerce.com/n-arxsrf/fhqhzj/product_images/uploaded_images/super-heroes-trivia-category-comic-trivia-night.jpg?t=1398725710%20or%20%20http://cdn2.bigcommerce.com/n-arxsrf/fhqhzj/product_images/uploaded_images/super-heroes-trivia-category-comic-trivia-night.jpg?t=139872571",
+      "Name" : "Comic"
+    },
+    "03" : {
+      "Image" : "https://anlatsin.com/media/topic/cover/tarih_cover.jpg",
+      "Name" : "Geo"
+    },
+    "04" : {
+      "Image" : "http://yumurtaliekmek.com/wp-content/uploads/2015/06/m%C3%BCzik-kulagi_171115.jpg",
+      "Name" : "Music"
+    },
+    "05" : {
+      "Image" : "https://www.as.itb.ac.id/kk/wp-content/uploads/sites/2/2016/10/M31-1-e1475375664395.jpg",
+      "Name" : "Astronomi"
+    },
+    "06" : {
+      "Image" : "http://image.cdn.haber7.com//haber/haber7/photos/2016/44/bu_hafta_6_film_vizyona_girecek_fragmanlar_1478175980_8512.jpg",
+      "Name" : "Movies"
+    },
+    "07" : {
+      "Image" : "https://www.hindscc.edu/Assets/images/computer-programming-tech.jpg",
+      "Name" : "Programming"
+    },
+    "08" : {
+      "Image" : "https://www.mcdonalds.com/content/dam/usa/documents/mcdelivery/mcdelivery_new11.jpg",
+      "Name" : "Food"
+    }
+  },
+  "Question_Score" : {
+    "a_01" : {
+      "question_score" : "a_01",
+      "score" : "0",
+      "user" : "a"
+    },
+    "a_02" : {
+      "question_score" : "a_02",
+      "score" : "30",
+      "user" : "a"
+    },
+    "a_04" : {
+      "question_score" : "a_04",
+      "score" : "10",
+      "user" : "a"
+    },
+    "broti_02" : {
+      "question_score" : "broti_02",
+      "score" : "60",
+      "user" : "broti"
+    },
+    "broti_04" : {
+      "question_score" : "broti_04",
+      "score" : "40",
+      "user" : "broti"
+    },
+    "dipta_01" : {
+      "question_score" : "dipta_01",
+      "score" : "30",
+      "user" : "dipta"
+    },
+    "f_01" : {
+      "question_score" : "f_01",
+      "score" : "0",
+      "user" : "f"
+    },
+    "f_02" : {
+      "question_score" : "f_02",
+      "score" : "0",
+      "user" : "f"
+    },
+    "f_03" : {
+      "question_score" : "f_03",
+      "score" : "0",
+      "user" : "f"
+    },
+    "f_04" : {
+      "question_score" : "f_04",
+      "score" : "70",
+      "user" : "f"
+    },
+    "f_05" : {
+      "question_score" : "f_05",
+      "score" : "0",
+      "user" : "f"
+    },
+    "f_06" : {
+      "question_score" : "f_06",
+      "score" : "0",
+      "user" : "f"
+    },
+    "f_07" : {
+      "question_score" : "f_07",
+      "score" : "0",
+      "user" : "f"
+    },
+    "f_08" : {
+      "question_score" : "f_08",
+      "score" : "0",
+      "user" : "f"
+    },
+    "g_01" : {
+      "question_score" : "g_01",
+      "score" : "20",
+      "user" : "g"
+    },
+    "g_02" : {
+      "question_score" : "g_02",
+      "score" : "0",
+      "user" : "g"
+    },
+    "m_01" : {
+      "question_score" : "m_01",
+      "score" : "10",
+      "user" : "m"
+    },
+    "n_01" : {
+      "question_score" : "n_01",
+      "score" : "10",
+      "user" : "n"
+    },
+    "n_03" : {
+      "question_score" : "n_03",
+      "score" : "0",
+      "user" : "n"
+    },
+    "n_04" : {
+      "question_score" : "n_04",
+      "score" : "20",
+      "user" : "n"
+    },
+    "z_01" : {
+      "question_score" : "z_01",
+      "score" : "0",
+      "user" : "z"
+    }
+  },
+  "Questions" : {
+    "01" : {
+      "AnswerA" : "Camp Nou",
+      "AnswerB" : "Santiago Bernabéu",
+      "AnswerC" : "Anoeta",
+      "AnswerD" : "Mestalla",
+      "CategoryID" : "01",
+      "CorrectAnswer" : "Santiago Bernabéu",
+      "IsImageQuestion" : "false",
+      "Question" : "Home of Real Madrid?"
+    },
+    "02" : {
+      "AnswerA" : "Messi",
+      "AnswerB" : "Dembele",
+      "AnswerC" : "Coutinho",
+      "AnswerD" : "Iniesta",
+      "CategoryID" : "01",
+      "CorrectAnswer" : "Coutinho",
+      "IsImageQuestion" : "true",
+      "Question" : "https://images.performgroup.com/di/library/GOAL/a6/9b/philippe-coutinho-barcelona_5vm35uwvcvdi14srga39sdehf.jpg?t=-696073328&quality=90&h=300"
+    },
+    "03" : {
+      "AnswerA" : "Messi",
+      "AnswerB" : "Dembele",
+      "AnswerC" : "Coutinho",
+      "AnswerD" : "Iniesta",
+      "CategoryID" : "01",
+      "CorrectAnswer" : "Messi",
+      "IsImageQuestion" : "true",
+      "Question" : "https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/lionelmessi-cropped_1hygeoo0ycfw61mgm8rnjkg3p5.jpg?itok=W-QBHf_4&c=87b6d99828d88c1b8ffe17a08d24fc7d"
+    },
+    "04" : {
+      "AnswerA" : "10 times",
+      "AnswerB" : "12 times",
+      "AnswerC" : "9 times",
+      "AnswerD" : "7 times",
+      "CategoryID" : "01",
+      "CorrectAnswer" : "12 times",
+      "IsImageQuestion" : "false",
+      "Question" : "Real Madrid hold the record for the most victories, having won Champions League for:"
+    },
+    "05" : {
+      "AnswerA" : "Chelsea FC",
+      "AnswerB" : "Manchester United",
+      "AnswerC" : "Manchester City",
+      "AnswerD" : "Leicester City",
+      "CategoryID" : "01",
+      "CorrectAnswer" : "Chelsea FC",
+      "IsImageQuestion" : "false",
+      "Question" : "Who won EPL in 2017?"
+    },
+    "06" : {
+      "AnswerA" : "Juventus F.C.",
+      "AnswerB" : "A.C. Milan",
+      "AnswerC" : "Leicester City",
+      "AnswerD" : "Manchester City",
+      "CategoryID" : "01",
+      "CorrectAnswer" : "Juventus F.C.",
+      "IsImageQuestion" : "false",
+      "Question" : "Old Lady is related to which club below:"
+    },
+    "07" : {
+      "AnswerA" : "Camp Nou",
+      "AnswerB" : "Santiago Bernabéu",
+      "AnswerC" : "Anoeta",
+      "AnswerD" : "Mestalla",
+      "CategoryID" : "02",
+      "CorrectAnswer" : "Santiago Bernabéu",
+      "IsImageQuestion" : "false",
+      "Question" : "Home of Real Madrid?"
+    },
+    "08" : {
+      "AnswerA" : "Messi",
+      "AnswerB" : "Dembele",
+      "AnswerC" : "Coutinho",
+      "AnswerD" : "Iniesta",
+      "CategoryID" : "02",
+      "CorrectAnswer" : "Coutinho",
+      "IsImageQuestion" : "true",
+      "Question" : "https://images.performgroup.com/di/library/GOAL/a6/9b/philippe-coutinho-barcelona_5vm35uwvcvdi14srga39sdehf.jpg?t=-696073328&quality=90&h=300"
+    },
+    "09" : {
+      "AnswerA" : "Messi",
+      "AnswerB" : "Dembele",
+      "AnswerC" : "Coutinho",
+      "AnswerD" : "Iniesta",
+      "CategoryID" : "02",
+      "CorrectAnswer" : "Messi",
+      "IsImageQuestion" : "true",
+      "Question" : "https://images.cdn.fourfourtwo.com/sites/fourfourtwo.com/files/styles/image_landscape/public/lionelmessi-cropped_1hygeoo0ycfw61mgm8rnjkg3p5.jpg?itok=W-QBHf_4&c=87b6d99828d88c1b8ffe17a08d24fc7d"
+    },
+    "10" : {
+      "AnswerA" : "10 times",
+      "AnswerB" : "12 times",
+      "AnswerC" : "9 times",
+      "AnswerD" : "7 times",
+      "CategoryID" : "02",
+      "CorrectAnswer" : "12 times",
+      "IsImageQuestion" : "false",
+      "Question" : "Real Madrid hold the record for the most victories, having won Champions League for:"
+    },
+    "11" : {
+      "AnswerA" : "Chelsea FC",
+      "AnswerB" : "Manchester United",
+      "AnswerC" : "Manchester City",
+      "AnswerD" : "Leicester City",
+      "CategoryID" : "02",
+      "CorrectAnswer" : "Chelsea FC",
+      "IsImageQuestion" : "false",
+      "Question" : "Who won EPL in 2017?"
+    },
+    "12" : {
+      "AnswerA" : "A.C. Milan",
+      "AnswerB" : "Juventus F.C.",
+      "AnswerC" : "Leicester City",
+      "AnswerD" : "Manchester City",
+      "CategoryID" : "02",
+      "CorrectAnswer" : "Juventus F.C.",
+      "IsImageQuestion" : "false",
+      "Question" : "Old Lady is related to which club below:"
+    },
+    "13" : {
+      "AnswerA" : "Micheal 10",
+      "AnswerB" : "Jackson 5",
+      "AnswerC" : "Jackson 13",
+      "AnswerD" : "Robert 50",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "Jackson 5",
+      "IsImageQuestion" : "false",
+      "Question" : "What is the name of Micheal Jackson's band?"
+    },
+    "14" : {
+      "AnswerA" : "900",
+      "AnswerB" : "190",
+      "AnswerC" : "2000",
+      "AnswerD" : "323",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "2000",
+      "IsImageQuestion" : "false",
+      "Question" : "How many songs did Rabindranath write?"
+    },
+    "15" : {
+      "AnswerA" : "China",
+      "AnswerB" : "Japan",
+      "AnswerC" : "Messopotamia",
+      "AnswerD" : "Bulgaria",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "Messopotamia",
+      "IsImageQuestion" : "false",
+      "Question" : "Which country first introduced musical instruments?"
+    },
+    "16" : {
+      "AnswerA" : "55",
+      "AnswerB" : "77",
+      "AnswerC" : "88",
+      "AnswerD" : "66",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "88",
+      "IsImageQuestion" : "false",
+      "Question" : "How many notes are there in a piano?"
+    },
+    "17" : {
+      "AnswerA" : "13",
+      "AnswerB" : "12",
+      "AnswerC" : "17",
+      "AnswerD" : "9",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "12",
+      "IsImageQuestion" : "false",
+      "Question" : "1 octave = ? notes"
+    },
+    "18" : {
+      "AnswerA" : "97 million and counting",
+      "AnswerB" : "37 million and counting",
+      "AnswerC" : "57 billion and counting",
+      "AnswerD" : "27 billion and counting",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "97 million and counting",
+      "IsImageQuestion" : "false",
+      "Question" : "How many songs are there in the world?"
+    },
+    "19" : {
+      "AnswerA" : "4 million+",
+      "AnswerB" : "9 million+",
+      "AnswerC" : "10 million+",
+      "AnswerD" : "30 million+",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "30 million+",
+      "IsImageQuestion" : "false",
+      "Question" : "How many songs are available int the spotify?"
+    },
+    "20" : {
+      "AnswerA" : "3",
+      "AnswerB" : "4",
+      "AnswerC" : "5",
+      "AnswerD" : "6",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "6",
+      "IsImageQuestion" : "false",
+      "Question" : "How many notes does the blue scale consists of?"
+    },
+    "21" : {
+      "AnswerA" : "Ena Winson",
+      "AnswerB" : "Aretha Franklin",
+      "AnswerC" : "Ella Fitzgerald",
+      "AnswerD" : "Nina Simone",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "Ella Fitzgerald",
+      "IsImageQuestion" : "false",
+      "Question" : "Who is the first female singer in the world?"
+    },
+    "22" : {
+      "AnswerA" : "Rock the velle",
+      "AnswerB" : "Winchester",
+      "AnswerC" : "Kings of Rhythm",
+      "AnswerD" : "Bluster",
+      "CategoryID" : "04",
+      "CorrectAnswer" : "Kings of Rhythm",
+      "IsImageQuestion" : "false",
+      "Question" : "Which is the first band in the world?"
+    }
+  },
+  "Ranking" : {
+    "a" : {
+      "score" : 120,
+      "userName" : "a"
+    },
+    "broti" : {
+      "score" : 100,
+      "userName" : "broti"
+    },
+    "dipta" : {
+      "score" : 30,
+      "userName" : "dipta"
+    },
+    "f" : {
+      "score" : 130,
+      "userName" : "f"
+    },
+    "g" : {
+      "score" : 50,
+      "userName" : "g"
+    },
+    "m" : {
+      "score" : 10,
+      "userName" : "m"
+    },
+    "n" : {
+      "score" : 30,
+      "userName" : "n"
+    }
+  },
+  "Users" : {
+    "Nabil" : {
+      "email" : "klasdjkl",
+      "password" : "123",
+      "username" : "Nabil"
+    },
+    "a" : {
+      "email" : "a",
+      "password" : "a",
+      "userName" : "a"
+    },
+    "arnob" : {
+      "email" : "hjfd",
+      "password" : "123",
+      "userName" : "arnob"
+    },
+    "broti" : {
+      "email" : "broti@gmail.com",
+      "password" : "broti",
+      "userName" : "broti"
+    },
+    "dipta" : {
+      "email" : "dipta",
+      "password" : "dipta",
+      "userName" : "dipta"
+    },
+    "dipta10" : {
+      "email" : "dip@yahoo.com",
+      "password" : "12",
+      "userName" : "dipta10"
+    },
+    "f" : {
+      "email" : "w",
+      "password" : "f",
+      "userName" : "f"
+    },
+    "fhh" : {
+      "email" : "vbnf",
+      "password" : "fgb",
+      "userName" : "fhh"
+    },
+    "g" : {
+      "email" : "g",
+      "password" : "g",
+      "userName" : "g"
+    },
+    "m" : {
+      "email" : "m",
+      "password" : "m",
+      "userName" : "m"
+    },
+    "n" : {
+      "email" : "n",
+      "password" : "n",
+      "userName" : "n"
+    },
+    "nabil" : {
+      "email" : "nabil",
+      "password" : "nabil",
+      "userName" : "nabil"
+    },
+    "new" : {
+      "email" : "new",
+      "password" : "new",
+      "userName" : "new"
+    },
+    "vhj" : {
+      "email" : "gbn",
+      "password" : "vnm",
+      "userName" : "vhj"
+    },
+    "z" : {
+      "email" : "z",
+      "password" : "z",
+      "userName" : "z"
+    }
+  },
+  "time" : {
+    "hour" : "10"
+  }
+}
